@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Burger",
+        "description": "Hamburger (atau sering kali disebut dengan burger) adalah sejenis makanan berupa roti berbentuk bundar yang diiris dua dan di tengahnya diisi dengan patty yang biasanya diambil dari daging, kemudian sayur-sayuran berupa selada, tomat dan bawang bombai.",
+        "price" : 20000,
+        "imgUrl" : "https://images.unsplash.com/photo-1553979459-d2229ba7433b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1068&q=80",
+        "authorId" : 1,
+        "categoryId" : 1
+    },
+    {
+        "name": "Es Teh",
+        "description": "Es teh atau Teh es adalah teh yang didinginkan dengan es batu. Es teh sering kali ditambahkan rasa seperti melati, dan buah-buahan seperti limun, ceri, dan arbei, atau susu.",
+        "price" : 5000,
+        "imgUrl" : "image.png",
+        "authorId" : 1,
+        "categoryId" : 2
+    },
+    {
+        "name": "Kitelo",
+        "description": "Ketela adalah istilah untuk tanaman berumbi yang daunnya dapat disayur dan umbinya dapat dimakan.",
+        "price" : 20000,
+        "imgUrl" : "https://images.unsplash.com/photo-1614242239788-3282f136fe10?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=375&q=80",
+        "authorId" : 1,
+        "categoryId" : 3
+    }
+]
